@@ -10,7 +10,7 @@ Exploratory Data Analysis (EDA) on Amazon delivery dataset to uncover patterns a
 | Drop\_Latitude   | Latitude coordinate of the delivery/drop location                           |
 | Drop\_Longitude  | Longitude coordinate of the delivery/drop location                          |
 | Order\_Date      | Date when the order was placed                                              |
-| Order\_Time      | Time when the order was placed                                              |
+| Order\_Time      | Time when the order was placed                                              |  
 | Pickup\_Time     | Time when the order was picked up by the agent                              |
 | Weather          | Weather condition during the delivery                                       |
 | Traffic          | Traffic condition during the delivery                                       |
